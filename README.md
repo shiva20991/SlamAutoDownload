@@ -6,9 +6,6 @@
 ![image](https://user-images.githubusercontent.com/75202685/132438260-721f7b63-a3c8-4c97-9eb5-fb13ce736e67.png)
 ![image](https://user-images.githubusercontent.com/75202685/133397759-30ffba7e-afb0-44b7-82ee-d579aa1d1b33.png)
 
-HEROKU DEPLOY = <a href="https://heroku.com/deploy?template=https://github.com/shiva20991/SlamAutoDownload">
-
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
  
 ###### AUTO_RE_ADD: string to add before file extension <br>
 ###### AUTO_RE_REM: string to remove in file name <br>
